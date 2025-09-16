@@ -11,7 +11,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuanKeniti&theme=midnight-purple)](https://git.io/streak-stats)
+<p>CONNECT WITH ME:</p>
 
 </div>
 
