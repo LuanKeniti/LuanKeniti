@@ -3,9 +3,9 @@
 <br>
 <br> 
 
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&width=435&lines=Hi+!+My+name+is+Luan+!;WELCOME%3A)](https://git.io/typing-svg)
-</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&width=450&lines=Hi+!+My+name+is+Luan+!;WELCOME%3A)](https://git.io/typing-svg)
+
 
 <br>
 <br>
