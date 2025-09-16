@@ -32,7 +32,7 @@
 
 <div align="center" >
    
-[![Ashutosh's github activity graph](https://github.com/user-attachments/assets/f70925d1-676d-455b-8281-20bff81dff55)](https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&weeks=30&theme=blue) 
+https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&weeks=30&theme=blue
 
 </div>
 
